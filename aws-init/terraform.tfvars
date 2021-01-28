@@ -61,6 +61,16 @@ aws_users = {
     group = "developpeurs"
     path  = "/users/"
   },
+  francois = {
+    name  = "francois.cote"
+    group = "developpeurs"
+    path  = "/users/"
+  },
+  julien = {
+    name  = "julien.moulin"
+    group = "developpeurs"
+    path  = "/users/"
+  },
 }
 
 aws_users_service = {
