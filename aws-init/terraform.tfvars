@@ -41,11 +41,6 @@ aws_groups = {
 }
 
 aws_users = {
-  kaiss = {
-    name  = "kaiss.berkani"
-    group = "developpeurs"
-    path  = "/users/"
-  },
   eric = {
     name  = "eric.labranche"
     group = "developpeurs"
